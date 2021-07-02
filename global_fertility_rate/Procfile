@@ -1,2 +1,1 @@
 web gunicorn global-fertility-rate:app
-heroku ps:scale web=1
